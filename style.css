@@ -128,3 +128,35 @@ body {
 .other {
     margin-left: 43.5%;
 }
+
+.dplan {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 26px;
+}
+
+.plans {
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-radius: 5px;
+    text-align: left;
+    display: inline-block;
+    height: 300px;
+    width: 25%;
+}
+
+#food {
+    background-color: rgb(231, 243, 239);
+}
+
+#shelter {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #f1e3e4;
+}
+
+#child-education {
+    background-color: rgb(255, 255, 213);
+}
